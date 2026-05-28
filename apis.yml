@@ -1,0 +1,32 @@
+aid: kakao-maps
+name: Kakao Maps
+description: "Kakao Maps provide multiple APIs for Korean maps"
+url: https://apis.map.kakao.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Kakao Maps
+    description: "Kakao Maps provide multiple APIs for Korean maps"
+    humanURL: https://apis.map.kakao.com
+    baseURL: https://apis.map.kakao.com
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://apis.map.kakao.com
+common:
+  - type: Website
+    url: https://apis.map.kakao.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
