@@ -39,7 +39,6 @@ apis:
   - name: Kakao Maps
     description: "Kakao Maps provide multiple APIs for Korean maps"
     humanURL: https://apis.map.kakao.com
-    baseURL: https://apis.map.kakao.com
     tags:
       - Geocoding
     properties:
